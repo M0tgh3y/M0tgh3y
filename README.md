@@ -6,7 +6,6 @@ Welcome to my GitHub profile! Here, you can find my projects, skills, and what I
 
 - 🔭 I’m currently working on **Qt**.
 - 📫 How to reach me: [mot13832004@gmail.com](mailto:mot13832004@gmail.com).
-- ⚡ Fun fact: HAHAHAHA!
 
 ## Skills
 
