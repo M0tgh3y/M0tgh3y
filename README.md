@@ -1,4 +1,4 @@
-# Hello, I'm Motahare 👋
+# Hello, I'm Motahare👋
 
 Welcome to my GitHub profile! Here, you can find my projects, skills, and what I'm currently learning.
 
